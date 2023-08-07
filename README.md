@@ -32,7 +32,7 @@ nodemon app
 
 ## Postman
 
-[![Run in Postman](https://run.pstmn.io/button.svg)]https://documenter.getpostman.com/view/27256896/2s9XxzsrmW
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://documenter.getpostman.com/view/27256896/2s9XxzsrmW)
 
 
 # Related Project
